@@ -1,0 +1,15 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\bin\Debug\net6.0\Estrutura de Controle.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\bin\Debug\net6.0\Estrutura de Controle.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\bin\Debug\net6.0\Estrutura de Controle.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\bin\Debug\net6.0\Estrutura de Controle.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\bin\Debug\net6.0\Estrutura de Controle.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\refint\Estrutura de Controle.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\Estrutura de Controle.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Projeto.Net\Estrutura de Controle\obj\Debug\net6.0\ref\Estrutura de Controle.dll
