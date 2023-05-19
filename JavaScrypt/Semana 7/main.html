@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ex 1</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <script>
+    // Array com os nomes dos meses
+    var meses = [
+      "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", 
+      "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"
+    ];
+
+    var dataUsuario = prompt("Digite a data no formato dd/mm/aaaa:");
+
+    // Divide a data em dia, mês e ano
+    var partesData = dataUsuario.split('/');
+    var diaUsuario = partesData[0];
+    var mesUsuario = partesData[1];
+    var anoUsuario = partesData[2];
+
+    // Encontra o índice do mês fornecido pelo usuário
+    var indiceMes = parseInt(mesUsuario) - 1;
+
+    // Verifica se o mês fornecido pelo usuário existe no array
+    if (indiceMes >= 0 && indiceMes < meses.length) {
+      document.write('<div class="dataDiv">');
+      document.write('<div class="diaDiv">');
+      document.write('<h2><strong>Dia: ' + diaUsuario + '</strong></h2>');
+      document.write('</div>');
+      document.write('<div class="mesDiv">');
+      document.write('<h2><strong>Mês: ' + meses[indiceMes] + '</strong></h2>');
+      document.write('</div>');
+      document.write('<div class="anoDiv">');
+      document.write('<h2><strong>Ano: ' + anoUsuario + '</strong></h2>');
+      document.write('</div>');
+      document.write('</div>');
+
+      document.write('<div class="mesesDiv">');
+      for (var i = 0; i < 12; i++) {
+        var mesIndex = (indiceMes + i) % meses.length;
+        var divColor = (i === 0) ? 'yellowDiv' : ((i % 2 === 1) ? 'blueDiv' : 'whiteDiv');
+        document.write('<div class="' + divColor + '">' + meses[mesIndex] + '</div>');
+      }
+      document.write('</div>');
+    } else {
+      document.write('<p>A data fornecida é inválida.</p>');
+    }
+  </script>
+</body>
+</html>

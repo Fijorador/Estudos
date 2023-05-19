@@ -1,0 +1,38 @@
+
+  
+  .dataDiv > div {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .diaDiv {
+    background-color: red;
+    
+  }
+  
+  .mesDiv {
+    background-color: green;
+   
+  }
+  
+  .anoDiv {
+    background-color: blue;
+   
+  }
+  
+  .yellowDiv {
+    background-color: yellow;
+  }
+  
+  .blueDiv {
+    background-color: rgb(8, 70, 171);
+  }
+  
+  .whiteDiv {
+    background-color: white;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
